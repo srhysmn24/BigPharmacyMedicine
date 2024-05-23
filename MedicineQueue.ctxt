@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MedicineQueue
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=medicineQueue
+comment10.target=void\ removeLessThanTwoItems(Queue)
+comment2.params=filePath\ medicineQueue
+comment2.target=void\ readFile(java.lang.String,\ Queue)
+comment3.params=medicineQueue
+comment3.target=void\ displayRecord(Queue)
+comment4.params=medicineQueue\ in
+comment4.target=void\ updateMemberStatusMenu(Queue,\ java.util.Scanner)
+comment5.params=medicineQueue\ custName\ newStatus
+comment5.target=void\ updateMemberStatus(Queue,\ java.lang.String,\ java.lang.String)
+comment6.params=inputFilePath\ outputFilePath\ medicineQueue
+comment6.target=void\ updateFile(java.lang.String,\ java.lang.String,\ Queue)
+comment7.params=medicineQueue
+comment7.target=double\ calculateTotalPrices(Queue)
+comment8.params=medicineQueue
+comment8.target=void\ countMedicineTypes(Queue)
+comment9.params=medicineQueue
+comment9.target=void\ calculateAverage(Queue)
+numComments=11

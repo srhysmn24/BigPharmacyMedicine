@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MedicineLinkedList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=medLL
+comment10.target=void\ removeLessThanTwoItems(LinkedList)
+comment2.params=filePath\ medLL
+comment2.target=void\ readFile(java.lang.String,\ LinkedList)
+comment3.params=medLL
+comment3.target=LinkedList\ displayRecord(LinkedList)
+comment4.params=inputFilePath\ outputFilePath\ medLL
+comment4.target=void\ updateFile(java.lang.String,\ java.lang.String,\ LinkedList)
+comment5.params=medLL\ custName\ newStatus
+comment5.target=void\ updateMemberStatus(LinkedList,\ java.lang.String,\ java.lang.String)
+comment6.params=medLL\ in
+comment6.target=void\ updateMemberStatusMenu(LinkedList,\ java.util.Scanner)
+comment7.params=medLL
+comment7.target=double\ calculateTotalPrices(LinkedList)
+comment8.params=medLL
+comment8.target=void\ countMedicineTypes(LinkedList)
+comment9.params=medLL
+comment9.target=void\ calculateAverage(LinkedList)
+numComments=11
