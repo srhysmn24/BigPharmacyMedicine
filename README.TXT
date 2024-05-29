@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: BigPharmacyMedicine 
+PURPOSE OF PROJECT: Application of data structure (linkedlist and queue) 
+VERSION or DATE: 2024
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Sarah Yasmin
 USER INSTRUCTIONS:
